@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=sFrom\ sTo\ sClass\ iAdult\ iChildren\ iInfant\ sBookingDate\ iPrice\ sTime\ sTicket\ sBook
+comment0.target=void\ Print(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=1
